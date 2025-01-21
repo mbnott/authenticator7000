@@ -1,0 +1,20 @@
+{
+    "name": "mbnot/authenticator7000",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mbnot\\Authenticator7000\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mbnot"
+        }
+    ],
+    "minimum-stability": "stable"
+}
